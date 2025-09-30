@@ -2,6 +2,9 @@
 
 **FAR** is a mobile app that combines machine learning and augmented reality to help users discover, preview, and choose furniture that perfectly fits their style and space.  
 
+## VIDEO DEMO and APK (downloadable) for testing
+**https://drive.google.com/drive/folders/1qeDX0vJqnlhlbdxfC_cnsv3vZjiofV-p?usp=sharing**
+
 ## Features
 - **User Onboarding**: Sign up/login to personalize your experience.  
 - **Style Preferences**: Select 5 photos to define your furniture taste.  
